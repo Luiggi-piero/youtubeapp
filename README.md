@@ -1,4 +1,13 @@
 # Youtubeapp
+Plataforma que muestra los videos del usuario @syntheticsax usando la api de youtube.
+
+https://developers.google.com/youtube/v3/docs/channels/list
+- Angular
+- HTML
+- CSS
+- Bootstrap
+
+![ytapp](https://user-images.githubusercontent.com/86317658/205464664-74caac14-6d83-466e-90a6-b19fabbc9da3.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 
